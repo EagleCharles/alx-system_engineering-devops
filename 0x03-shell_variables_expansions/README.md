@@ -20,3 +20,4 @@ Task 13: Prints a number with two decimal places, followed by a new line,
 	 stored in the environment variable NUM.
 Task 14: Converts a number from base 10 to base 16, stored in the environment
 	 variable DECIMAL, displays the number in base 16, followed by a new	      line.
+Task 15: Encodes and decodes text using the rot13 encryption. Assuming ASCII.
