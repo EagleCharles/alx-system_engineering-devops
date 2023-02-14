@@ -12,3 +12,4 @@ Task 7: Creates a new global variable "BEST" with value "School"
 Task 8: Prints the result of the addition of 128 with the value stored 
 	in the environment variable "TRUEKNOWLEDGE", followed by a new 
 	line.
+Task 9: prints the result of POWER divided by DIVIDE, followed by a new 	line.
