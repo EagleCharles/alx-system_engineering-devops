@@ -14,3 +14,4 @@ Task 8: Prints the result of the addition of 128 with the value stored
 	line.
 Task 9: Prints the result of POWER divided by DIVIDE, followed by a new 	line.
 Task 10: Displays the result of BREATH to the power LOVE.
+Task 11: Converts a number from base 2 to base 10.
