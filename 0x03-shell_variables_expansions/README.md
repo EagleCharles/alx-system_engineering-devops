@@ -16,3 +16,5 @@ Task 9: Prints the result of POWER divided by DIVIDE, followed by a new 	line.
 Task 10: Displays the result of BREATH to the power LOVE.
 Task 11: Converts a number from base 2 to base 10.
 Task 12: Prints all possible combinations of two letters, except oo.
+Task 13: Prints a number with two decimal places, followed by a new line,
+	 stored in the environment variable NUM.
