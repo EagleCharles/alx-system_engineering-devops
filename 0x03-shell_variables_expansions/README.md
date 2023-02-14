@@ -7,3 +7,4 @@ Task 3: Counts the number of directories in the "PATH".
 Task 4: Lists environmental variables.
 Task 5: lists all local variables and environmental variables, and 
 	functions.
+Task 6: Creates a new local variable "BEST" with the value "School".
