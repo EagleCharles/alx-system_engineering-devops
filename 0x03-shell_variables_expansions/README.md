@@ -18,3 +18,5 @@ Task 11: Converts a number from base 2 to base 10.
 Task 12: Prints all possible combinations of two letters, except oo.
 Task 13: Prints a number with two decimal places, followed by a new line,
 	 stored in the environment variable NUM.
+Task 14: Converts a number from base 10 to base 16, stored in the environment
+	 variable DECIMAL, displays the number in base 16, followed by a new	      line.
