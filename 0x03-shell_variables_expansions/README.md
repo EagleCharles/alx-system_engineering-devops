@@ -9,3 +9,6 @@ Task 5: lists all local variables and environmental variables, and
 	functions.
 Task 6: Creates a new local variable "BEST" with the value "School".
 Task 7: Creates a new global variable "BEST" with value "School"
+Task 8: Prints the result of the addition of 128 with the value stored 
+	in the environment variable "TRUEKNOWLEDGE", followed by a new 
+	line.
